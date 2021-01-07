@@ -1,0 +1,9 @@
+# .gitignore
+Transparency/lexica/
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+Transparency/__pycache__
+.vscode
+venv/
+.DS_Store
+**/__pycache__/**
