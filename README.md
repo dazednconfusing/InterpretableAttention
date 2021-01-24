@@ -1,5 +1,8 @@
-# Lexica Based Interpretablity of Attention
+# Lexica Based Interpretablity of Attention in LSTM Networks
 This codebase has been built based on this [repo](https://github.com/akashkm99/Interpretable-Attention) 
+
+We present the model and experiments used to develop our lexica-based interpretability measure as outlined in our paper in `Transparency/paper`. By making use of the LIWC dictionary, our analysis shows where and how much an LSTM's interpretability aligns with human reasoning.
+
 
 ## Installation 
 
