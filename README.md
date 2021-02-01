@@ -95,3 +95,7 @@ Note: You must run train_and_run_experiments_bc.py at least once before you can 
 You may find lexica_based_interpretability/train_and_run_experiments.sh and  lexica_based_interpretability/run_experiments.sh useful to build off of
 
 
+### Contributors
+- Sebastian Peralta
+- Yilin Geng
+- John Bellwoar
